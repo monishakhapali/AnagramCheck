@@ -1,0 +1,11 @@
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.exe
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.deps.json
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.dll
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\bin\Debug\netcoreapp3.1\anagrams.pdb
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.dll
+C:\Users\monisha.khapali\source\repos\anagrams\anagrams\obj\Debug\netcoreapp3.1\anagrams.pdb
